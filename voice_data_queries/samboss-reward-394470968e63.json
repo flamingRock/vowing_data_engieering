@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "samboss-reward",
+  "private_key_id": "394470968e637d53af456ce99149ba0b9966f12f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC70euQ6ug3qhK0\n3UERzrDdbdF0xyHVUCOS2WyPnXupuhW+NdRHORnnTOBxLx7DnSbsXzJo6mQnSGLf\nFUu+eewEDfbY3JBSSO1cwNQX3VQlShXEXNB1g+nFY0iZ4/7gZvP+hiINsSITcgbx\nt2vl1e+f4ulMtAbI5OERzBE0hMCot+1sf7QWvP03iHg24PVAjP98uzaTKKF3BR2m\n51OvqDWeWAf7fmrigsScjKYWbFma5Xrh935tDh80YVzIo+IX8xQ1Uy8DaoEuH3oZ\nNPJ/ECxxQPQ4N/fu8EVVZay0scwUxKT8i6muy5gn1Yv4TY5oG8wzjpQ5s9b1ee8o\nlLoZlC13AgMBAAECggEAA3tGhBcD+0rWR5mrA/L9DqW4p72skAveakbzKbhaxfsn\n6FuOwKE7gduddMum+iuhaz6agceygpM8w0jdm2ge1WES4yiM2PxMFheRoZLzOoZk\nipFz4HHJCrp76opc5k5SQIoTpdr+ODZkEDqnr94m2nkLfRCrPYcXRaFZl6EhrHRF\nj3R3oU96eO5fJ2SMnWMBxsASUC+xttPsvJpWsbUBizf9yLQmcNCq4vWkR8qVDLhj\ni30vRkeKlxtiHr73h2JoTAu4IBwqWxyrw6lZzZHoMl6g9E84CNen9Mzer923ZNC6\ngpzUsH3Yj83PclDA3RTk3YhIobt+QmViklCMctzBvQKBgQDkObVMw0y181oHXsQ3\na8Xaz2xZ6xUenyxkh12f0R4R3IFFgTSEiMVGZ4iA5uFkp88TRb2SqfEZ0ATkk+l2\nfhJ54dbQHJMZ+vpLpuul80zDhuAoJYhhn0X953kP7sefsAZhJAvAjGYE1u6TgOYZ\ncD4xr/GLDlo8sFTF7TdxfWmtCwKBgQDSrWTHiQLQySYZXwqDDShBNixS/xsDUAm0\nM0udl7pO+rpqhxY0rbpTHxgvI6Fl1hcWHoNx3QBjsmgU/vBhD5Uort5Jy2uoZZvq\n+naB+3m0OlDsm8NtsqrZKEevVnWw72B1FZL8+vKum+DXfvu8ppNVPC4fd9FwSckv\nVggGCeCMxQKBgQCnAivPzqLWCwx4lDqWK8GPi3ZInqTH0ccUkZJLnyWYAHqAuDoM\nOmHSUXUsjseldr8r5T8CkmWic/0An9SaJ0ux8TfW9vIWcviyX6XVvKMR+iMSfdS9\nS2ZWlQqcRCnEi3U/pLcM4jDNndLcEdlQCDka9xuUnJ4gBxEh/aMy44lvXQKBgQDL\nPr5ABXzy4WthBKCGh5XzO4kNVNDBpGCIOQhU88CoWximlsYkcgmUESZqq6wUK7NA\nApX6riOnCsGAp+ZNLRRQGEuY06d74PLHgXP8uBfUeIIDkc26sahDManejMGjvXvH\n2NViO9MOApGqM/Y2LFls3E7+ysAB3R07DntVIAhCpQKBgQDcpDEcOzaH1xstihVP\nNFFpzEZ8wy9KsIVpr63l1Rxc2+iZXh2sGPLyFoBVm6b7PSUCIec02o1AAdWCiJ2y\n6OFZDhp1a4JCbQyGuN4G+KPf0VDm7BDvdCdIRbZC5dTd5zqA0g/mgPEF95KvByyQ\neo95SaPnKhjzsaWTFbtqm5ANGQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bbcon-259@samboss-reward.iam.gserviceaccount.com",
+  "client_id": "101666666174961083980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bbcon-259%40samboss-reward.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
