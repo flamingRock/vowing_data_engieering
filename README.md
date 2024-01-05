@@ -22,7 +22,7 @@
   - analyze_sample_voices.ipynb:
     - 'sample_voice_metadata_230918'을 분석
   - analyze_sheets.ipynb:
-    - 구글시트(fs_point_20230801, fs_memo_20230801)를 읽어
+    - 구글시트(fs_point_20230801, fs_memo_20230801) 데이터를 읽어
       -> 분석하는 작업
   - analyze_structure_of_local.ipynb:
     - 폴더와 파일 구조를 그래픽하게 출력
